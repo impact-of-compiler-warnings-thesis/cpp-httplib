@@ -33,5 +33,4 @@ Release
 *.db
 ipch
 *.dSYM
-.*
 !/.travis.yml
